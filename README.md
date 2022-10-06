@@ -1,4 +1,4 @@
-# <img src="https://github.com/jiitopticachapter/jiitopticawebsite/blob/main/img1/favicon-16x16.png" width="52">JIITOPTICA
+# <img src="https://github.com/jiitopticachapter/jiitopticawebsite/blob/main/images/favicon-16x16.png" width="52">JIITOPTICA
 
 
 ![Issues](https://img.shields.io/github/issues/jiitopticachapter/jiitopticawebsite)
@@ -27,9 +27,9 @@ In order to succesfully run the project on your local system, you will need to s
 
 2. Copy and **clone *your fork's*** URL using the `git clone [URL]` command. <br/>
    Copy - <br/>
-   ![image](https://github.com/jiitopticachapter/jiitopticawebsite/blob/main/img1/git-link.png) <br/>
+   ![image](https://github.com/jiitopticachapter/jiitopticawebsite/blob/main/images/git-link.png) <br/>
    Clone - <br/>
-   ![image](https://github.com/jiitopticachapter/jiitopticawebsite/blob/main/img1/git-clone.png)
+   ![image](https://github.com/jiitopticachapter/jiitopticawebsite/blob/main/images/git-clone.png)
 
 3. Change your directory to reach **jiitopticawebsite** folder using `cd jiitopticawebsite`
 
